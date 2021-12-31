@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.port": 5515,
+
+    //add manualmente inicio
+    "emmet.syntaxProfiles": {"javascript": "jsx"},
+    "emmet.includeLanguages": {"javascript": "javascriptreact"},
+    ///fim
+
+}
